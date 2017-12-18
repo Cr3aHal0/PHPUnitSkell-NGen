@@ -1,6 +1,7 @@
 {
     "name": "mbergeon/php-unit-skell-n-gen",
     "description": "Provides extra functionnalities to existing PHP Unit skeleton generator",
+    "version":  "1.0.0",
     "type": "library",
     "authors": [
         {
