@@ -1,0 +1,12 @@
+{
+    "name": "mbergeon/php-unit-skell-n-gen",
+    "description": "Provides extra functionnalities to existing PHP Unit skeleton generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Maxime BERGEON",
+            "email": "webmastercr3a@gmail.com"
+        }
+    ],
+    "require": {}
+}
