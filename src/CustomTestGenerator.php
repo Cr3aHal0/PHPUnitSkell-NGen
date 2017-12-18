@@ -1,6 +1,8 @@
 <?php
 
-namespace SebastianBergmann\PHPUnit\SkeletonGenerator;
+namespace SkellNGen;
+
+use SebastianBergmann\PHPUnit\SkeletonGenerator\AbstractGenerator;
 
 /**
  * Custom generator that do not rewrite all tests stubs

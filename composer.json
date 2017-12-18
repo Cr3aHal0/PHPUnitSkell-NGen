@@ -8,5 +8,10 @@
             "email": "webmastercr3a@gmail.com"
         }
     ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
     "require": {}
 }
