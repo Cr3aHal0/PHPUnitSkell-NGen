@@ -44,6 +44,8 @@ namespace SkellNGen\CLI;
 
 use SkellNGen\CustomTestGenerator;
 
+use SebastianBergmann\PHPUnit\SkeletonGenerator\CLI\BaseCommand as BaseCommand;
+
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
