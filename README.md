@@ -21,7 +21,7 @@ or
 
 Update your **/PATH/TO/PHPUNIT_SKELGEN/CLI/Application.php** like so :
 
-``
+```
 use SkellNGen\CLI\UpdateTestCommand;
 
 class Application extends AbstractApplication
@@ -33,7 +33,7 @@ class Application extends AbstractApplication
         $this->add(new UpdateTestCommand);
     }
 
-``
+```
 
 And the component will do  the necessary to operate (thanks to Symfony Command component)
 
